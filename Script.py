@@ -1,30 +1,30 @@
 class script(object):
     START_TXT = """Hᴀɪɪ {} 🖖🤟
-Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'>Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊</a>.... I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Bᴜᴛᴛᴏɴs. Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Tʜᴇ Mᴀᴊɪᴄ. 😛
+Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>.... I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Bᴜᴛᴛᴏɴs. Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Tʜᴇ Mᴀᴊɪᴄ. 😛
 
 ©️ Powered By <a href="https://t.me/media_bot_updates">Bᴏᴛ Sʜᴀᴅᴏᴡ ♾</a>"""
     HELP_TXT = """Hᴇʏ {}
 Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.☺️😛"""
-    ABOUT_TXT = """🔅 Mʏ Nᴀᴍᴇ : Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊
-🔅 Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/darkz_hacker_devil">Rᴀᴠɪᴅᴜ Yᴀsᴀs</a>
-🔅 Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
-🔅 Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
-🔅 Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ DB
-🔅 Bᴏᴛ Sᴇʀᴠᴇʀ : Hᴇʀᴏᴋᴜ
-🔅 Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v1.0.1 [ Bᴇᴛᴀ ]
-🔅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : 🔐"""
+    ABOUT_TXT = """○ Mʏ Nᴀᴍᴇ :  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾
+○ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/darkz_hacker_devil"></> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰</a>
+○ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
+○ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
+○ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ DB
+○ Bᴏᴛ Sᴇʀᴠᴇʀ : Hᴇʀᴏᴋᴜ
+○ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v1.0.1 [ Bᴇᴛᴀ ]
+○ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : 🔐"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊 is a Locked project. 
+-  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ is a Locked project. 
 - Source - 🔐
 
 <b>DEVS:</b>
-- <a href="https://t.me/media_bot_updates">Team Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊</a>"""
+- <a href="https://t.me/media_bot_updates">Team  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊 should have admin privillage.
+1.  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -35,11 +35,11 @@ Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ 
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊 Supports both url and alert inline buttons.
+-  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊 supports buttons with any telegram media type.
+2.  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>

@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/raviyasa/Movies-Finder2/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/BotShadows/Movies-Finder2/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>

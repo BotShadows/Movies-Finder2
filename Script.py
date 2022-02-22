@@ -1,4 +1,6 @@
 class script(object):
+    def start_handler(update, context):
+    update.message.reply_sticker('CAACAgUAAxkBAAED9kRiDq_GkOHuRHPeVv4IRhsvy4NtbwACqQQAAncUyFftN80YUiyXnyME')
     START_TXT = """Hᴀɪɪ {} 🖖🤟
 Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>.... I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Bᴜᴛᴛᴏɴs. Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Tʜᴇ Mᴀᴊɪᴄ. 😛
 

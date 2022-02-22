@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/MRK-YT/EvaMaria",
+    "repository": "https://github.com/BotShadows/Movies-Finder2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.Take it from @BotFather",
